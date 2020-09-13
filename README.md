@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is an assignment for making a dashboard using react with different component (Tile(card), bootstrap datatable, chart).
 
-## Available Scripts
+Features
+------------------------------
+* Row1 -  Four tile card in a row having information- 
+  * Tile1 -  Today’s total  order’s count , Current week total order’s count.
+  * Tile2 - Today’s total  Order’s amount, Current week total order’s amount.
+  * Tile3 - Current month total order’s count, Last month total order’s count.
+  * Tile4 - Current month total order’s amount, Last month total order’s amount.
+* Row2 - Daily Order Trend - Add daily trend order count chart using line chart.
+* Row3-  Add top five and bottom five order tables.
+* Row4- Add top five and bottom five user tables.
+* Row5 – Detail Order Report
 
-In the project directory, you can run:
+Requirements
+------------------------------
 
-### `npm start`
+* ``Reactjs``
+* ``Es6``
+* ``NPM``
+* ``Node``
+* ``CSS3``
+* ``Java Script``
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Run Project
+------------------------------
+* ``https://github.com/Manpal-Singh/order-dashboard.git``
+* ``run npm install in root path``
+* ``run npm start inside root path``
+* Live Preview `https://order-dashboard-7a2cd.web.app`
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Preview
+------------------------------
 
-### `npm test`
+**Home View**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Home Page](https://imgur.com/LuT8xQj.jpg)
 
-### `npm run build`
+**Top/Bottom 5 Order**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Top/Bottom 5 Order](https://imgur.com/pifGlbW.jpg)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Top/Bottom 5 Order**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Top/Bottom 5 Order](https://imgur.com/tEev3ZU.jpg)
 
-### `npm run eject`
+**Detail Order Report**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Detail Order Report](https://imgur.com/dUvkO5S.jpg)

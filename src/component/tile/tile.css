@@ -1,0 +1,13 @@
+.card {
+    width:25%;
+    float: left;
+    padding:10px;
+}
+
+.box {
+    
+    width:80%;
+    background-color: #8772b5;
+    padding: 15px 25px;
+    
+}

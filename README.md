@@ -47,3 +47,7 @@ Preview
 **Detail Order Report**
 
 ![Detail Order Report](https://imgur.com/dUvkO5S.jpg)
+
+**Firebase Data**
+
+![Firebase Data](https://imgur.com/FTtK5Lz.jpg)

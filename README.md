@@ -23,6 +23,9 @@ Requirements
 * ``Node``
 * ``CSS3``
 * ``Java Script``
+* ``Firebase``
+* ``Material UI``
+* ``E-Charts``
 
 Run Project
 ------------------------------
